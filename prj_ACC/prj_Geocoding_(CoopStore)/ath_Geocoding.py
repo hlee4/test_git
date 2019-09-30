@@ -1,0 +1,2 @@
+# (1) vworld API key
+api_key = 'C815A116-C9D0-3958-B355-E3371C4AC234'
